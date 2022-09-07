@@ -1,6 +1,4 @@
-/**
- * Created by sonu on 1/7/17.
- */
+
 var mongoose=require('mongoose');
 var dbURI= 'mongodb://localhost/demo';
 mongoose.connect(dbURI);
